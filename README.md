@@ -1,0 +1,2 @@
+# Shinna
+My first project 
